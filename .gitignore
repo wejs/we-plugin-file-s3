@@ -1,0 +1,6 @@
+files/uploads
+node_modules
+coverage
+config
+*.log
+files/s3*
