@@ -7,3 +7,4 @@ files/uploads
 .gitignore
 *.log
 files/s3*
+config
